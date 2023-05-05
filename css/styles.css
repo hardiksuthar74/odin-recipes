@@ -42,7 +42,6 @@ a {
   color: #f6f6f6;
 }
 
-a:hover {
-  color: antiquewhite;
+button:hover {
   font-size: 20px;
 }
